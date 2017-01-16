@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyEquation", "SimplifyEquation.csproj", "{505ACF86-BBD0-48FF-93B3-DF539B480F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyEquation.Tests", "..\EquationSimplifier.Tests\SimplifyEquation.Tests.csproj", "{1AB5F674-96B8-4ADD-8A9A-DD0BD8AD0775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505ACF86-BBD0-48FF-93B3-DF539B480F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505ACF86-BBD0-48FF-93B3-DF539B480F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505ACF86-BBD0-48FF-93B3-DF539B480F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505ACF86-BBD0-48FF-93B3-DF539B480F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB5F674-96B8-4ADD-8A9A-DD0BD8AD0775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB5F674-96B8-4ADD-8A9A-DD0BD8AD0775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB5F674-96B8-4ADD-8A9A-DD0BD8AD0775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB5F674-96B8-4ADD-8A9A-DD0BD8AD0775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
